@@ -25,7 +25,7 @@ SECRET_KEY = 'gmhw%f%3bp07(g=icc_4zh+e1=*9ilpxizh2bu(!#a+v%&*1as'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['flywen.pythonanywhere.com']
 
 
 # Application definition
